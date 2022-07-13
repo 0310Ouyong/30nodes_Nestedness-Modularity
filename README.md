@@ -1,0 +1,13 @@
+# 30nodes_Nestedness-Modularity
+
+EcoBuilder
+
+1.在30EcoBuilder_Nest_Modu.R中用EcoBuilder30nodes_matrix.RData计算每个食物网的Nestedness保存为30EcoBuilder_Nest.RData，计算Modularity保存为30EcoBuilder_Modu.RData
+
+
+realworld
+
+1.在realworld_Nest_Modu.R中用realworld.matrix.RData计算每个食物网的Nestedness保存为realworld_Nest.RData,计算Modularity保存为realworld_Modu.RData
+
+
+在30Nestedness_Modularity.R中利用30EcoBuilder_Nest.RData,30EcoBuilder_Modu.RData,realworld_Nest.RData,realworld_Modu.RData绘制图
